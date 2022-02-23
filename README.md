@@ -48,9 +48,16 @@ to run the code.
 
 
 ## Screenshot
+**Powershell is used to commence the application but other commend line works the same**
+![Commencing the application](./commencing.png)
 
+**Every question and the success message**
+![Completion](./complete.png)
+
+**The product and its path(inside the Output folder)**
+![Product of the application](./product.png)
 ## Demo
-https://drive.google.com/file/d/1-x1BDy6rCSdkcbRTzMq5O7pRhC_M34sJ/view
+[![Video demo](./commencing.png)](https://drive.google.com/file/d/1-x1BDy6rCSdkcbRTzMq5O7pRhC_M34sJ/view)
 ### Contact 
 
 Github: [Aurorachama](https://github.com/Aurorachama)
