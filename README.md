@@ -10,7 +10,7 @@
 * [Contact](#Contact)
 
 ## Deploy Link
-https://aurorachama.github.io
+https://github.com/Aurorachama/Team-profile-generator
 
 ## Description 
 
@@ -50,7 +50,7 @@ to run the code.
 ## Screenshot
 
 ## Demo
-
+https://drive.google.com/file/d/1-x1BDy6rCSdkcbRTzMq5O7pRhC_M34sJ/view
 ### Contact 
 
 Github: [Aurorachama](https://github.com/Aurorachama)
